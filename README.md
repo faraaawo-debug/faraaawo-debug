@@ -27,19 +27,19 @@
 
 ##  Featured Projects
 
-### 🔹 AI Act QA System
+### - AI Act QA System
 Semantic document retrieval system to identify the most relevant passages of the **European AI Act** based on a user query.  
 **Tools:** Python, NLP, embeddings, semantic search
 
 ---
 
-###  NO₂ Time Series Forecasting
+### - NO₂ Time Series Forecasting
 Prediction of air pollution (NO₂) levels using historical and meteorological data. Focus on non-linear relationships and tree-based machine learning models.  
 **Tools:** Python, Pandas, scikit-learn, Random Forest, time series analysis
 
 ---
 
-###  Clash of Clans Deck Victory Prediction
+### - Clash of Clans Deck Victory Prediction
 Machine learning project to predict match outcomes based on deck composition. Includes data encoding, feature engineering, and classification model evaluation.  
 **Tools:** Python, scikit-learn, feature engineering, classification models
 
