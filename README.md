@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faraa Awoyemi
 
-🎓 M1 student in **Data Engineering & Artificial Intelligence**  
+🎓 4th-year egineering student in **Data Engineering & Artificial Intelligence**  
 📍 Engineering degree – ESILV (Paris La Défense)  
 🔍 Actively looking for a **5-month internship starting April 2026**
 
