@@ -4,8 +4,6 @@
 📍 Engineering degree – ESILV (Paris La Défense)  
 🔍 Actively looking for a **5-month internship starting April 2026**
 
-I am passionate about **data engineering, machine learning**, and the design of **robust data pipelines**.  
-My goal is to contribute to the optimization of **Big Data infrastructures** and to the development of **scalable data-driven systems** in an **international environment**.
 
 ---
 
