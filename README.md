@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Interests
+##  Interests
 - Data Engineering & Big Data
 - Machine Learning
 - Data Pipelines & ETL
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 **Languages:** Python, SQL, C++  
 **Data & ML:** Pandas, NumPy, scikit-learn  
 **NLP:** Embeddings, semantic search, RAG pipelines  
@@ -25,25 +25,25 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 AI Act QA System
-Question-answering system to explore the **European AI Act** using semantic search. Relevant legal passages are retrieved to generate contextual and traceable answers.  
-**Tools:** Python, NLP, embeddings, semantic search, RAG pipeline
+Semantic document retrieval system to identify the most relevant passages of the **European AI Act** based on a user query.  
+**Tools:** Python, NLP, embeddings, semantic search
 
 ---
 
-### 🔹 NO₂ Time Series Forecasting
+###  NO₂ Time Series Forecasting
 Prediction of air pollution (NO₂) levels using historical and meteorological data. Focus on non-linear relationships and tree-based machine learning models.  
 **Tools:** Python, Pandas, scikit-learn, Random Forest, time series analysis
 
 ---
 
-### 🔹 Clash of Clans Deck Victory Prediction
+###  Clash of Clans Deck Victory Prediction
 Machine learning project to predict match outcomes based on deck composition. Includes data encoding, feature engineering, and classification model evaluation.  
 **Tools:** Python, scikit-learn, feature engineering, classification models
 
 ---
 
-## 📫 Contact
+##  Contact
 - 📧 Email: faraa.awoyemi@edu.devinci.fr
