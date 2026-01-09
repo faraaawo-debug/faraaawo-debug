@@ -34,8 +34,8 @@ Semantic document retrieval system to identify the most relevant passages of the
 ---
 
 ### - NO₂ Time Series Forecasting
-Prediction of air pollution (NO₂) levels using historical and meteorological data. Focus on non-linear relationships and tree-based machine learning models.  
-**Tools:** Python, Pandas, scikit-learn, Random Forest, time series analysis
+Short-term forecasting of NO₂ air pollution levels using historical pollution data and meteorological variables. The project combines tree-based machine learning models and deep learning (LSTM) to capture both non-linear relationships and temporal dependencies.  
+**Tools:** Python, Pandas, scikit-learn, Random Forest, LSTM, time series analysis
 
 ---
 
