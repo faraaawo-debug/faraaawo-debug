@@ -27,9 +27,17 @@
 
 ##  Featured Projects
 
+### - MCP RAG Server for Document Question Answering
+
+End-to-end Retrieval-Augmented Generation (RAG) system using a custom MCP server, semantic search with ChromaDB, and LLM-based question answering. The system retrieves relevant document chunks and generates grounded responses, with evaluation metrics to assess faithfulness and relevance.
+
+**Tools:** Python, ChromaDB, SentenceTransformers, Ollama, RAG, embeddings, vector search
+
+---
+
 ### - AI Act QA System
 Semantic document retrieval system to identify the most relevant passages of the **European AI Act** based on a user query.  
-**Tools:** Python, NLP, embeddings, semantic search
+**Tools:** Python, Hit@K, embeddings, semantic search
 
 ---
 
