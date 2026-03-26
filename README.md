@@ -1,27 +1,27 @@
 # 👋 Hi, I'm Faraa Awoyemi
 
-🎓 4th-year egineering student in **Data Engineering & Artificial Intelligence**  
+🎓 4th-year egineering student in **Data & Artificial Intelligence**  
 📍 Engineering degree – ESILV (Paris La Défense)  
-🔍 Actively looking for a **5-month internship starting April 2026**
+🔍 Actively looking for a **5-month internship starting April or May 2026**
 
 
 ---
 
 ##  Interests
-- Data Engineering & Big Data
 - Machine Learning
-- Data Pipelines & ETL
-- Data Analysis & Visualization
-- NLP & Information Retrieval
+- AI engineering & Big Data
+- Agents
 
 ---
 
 ##  Technical Skills
+## 🛠️ Technical Skills
+
 **Languages:** Python, SQL, C++  
-**Data & ML:** Pandas, NumPy, scikit-learn  
-**NLP:** Embeddings, semantic search, RAG pipelines  
-**Data Engineering:** Data preprocessing, feature engineering, ETL pipelines  
-**Tools:** Git, Linux, Jupyter Notebook  
+**Machine Learning & Data Science:** Pandas, NumPy, scikit-learn, model evaluation, feature engineering  
+**NLP & LLMs:** Embeddings, semantic search, Retrieval-Augmented Generation (RAG), vector databases (ChromaDB), prompt engineering  
+**Data Engineering:** Data preprocessing, ETL pipelines, data cleaning, pipeline design  
+**Tools & Environment:** Git, Linux, Jupyter Notebook, Ollama  
 
 ---
 
