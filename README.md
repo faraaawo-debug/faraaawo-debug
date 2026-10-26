@@ -32,12 +32,12 @@ I design and implement generative AI prototypes (LLMs, RAG) and measure their pe
 ### RAG assistant integrated into Claude Desktop (MCP) · [mcp-rag-server](https://github.com/faraaawo-debug/mcp-rag-server)
 *Mar – Oct 2026*
 - Architecture and Python implementation: ingestion, vector search (ChromaDB), answers with source citations
-- Optional local LLM execution (Ollama) so data stays in-house
+- Answer generation with Ministral through the Mistral API
 - Intent router: a first LLM call identifies the question type and adapts retrieval, or refuses off-topic questions
 - Each feature evaluated on the same annotated questions (LLM-as-a-Judge)
 - Automated tests (pytest), continuous integration, documentation
 
-**Tools:** Python, MCP, ChromaDB, Sentence Transformers, Ollama, pytest, CI
+**Tools:** Python, MCP, ChromaDB, Sentence Transformers, Mistral API (Ministral), pytest, CI
 
 ---
 
