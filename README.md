@@ -1,57 +1,82 @@
 # 👋 Hi, I'm Faraa Awoyemi
 
-🎓 4th-year egineering student in **Data & Artificial Intelligence**  
-📍 Engineering degree – ESILV (Paris La Défense)  
-🔍 Actively looking for a **5-month internship starting April or May 2026**
+🎓 5th-year engineering student at **ESILV** (Paris La Défense), major in **Data & Artificial Intelligence**, with a background in physics  
+📍 Currently on an exchange semester at **Asia Pacific University (APU), Kuala Lumpur** (Sept – Dec 2026)  
+🔍 Looking for a **6-month end-of-studies internship starting February 2027**: generative AI, LLMs, RAG, AI agents
 
-
----
-
-##  Interests
-- Machine Learning
-- AI engineering & Big Data
-- Agents
+I design and implement generative AI prototypes (LLMs, RAG) and measure their performance.
 
 ---
 
-##  Technical Skills
+## 🧠 Interests
+- Generative AI & LLMs
+- Retrieval-Augmented Generation (RAG)
+- AI agents (LangGraph, MCP)
+- Evaluation of LLM systems
+
+---
+
 ## 🛠️ Technical Skills
 
 **Languages:** Python, SQL, C++  
-**Machine Learning & Data Science:** Pandas, NumPy, scikit-learn, model evaluation, feature engineering  
-**NLP & LLMs:** Embeddings, semantic search, Retrieval-Augmented Generation (RAG), vector databases (ChromaDB), prompt engineering  
-**Data Engineering:** Data preprocessing, ETL pipelines, data cleaning, pipeline design  
-**Tools & Environment:** Git, Linux, Jupyter Notebook, Ollama  
+**Generative AI:** LLMs, RAG, AI agents, MCP (Model Context Protocol), prompt engineering, LLM-as-a-Judge evaluation  
+**Frameworks & APIs:** LangChain, LangGraph, REST APIs (Mistral, Groq), Ollama, Streamlit  
+**Libraries:** PyTorch, Hugging Face, Sentence Transformers, spaCy, scikit-learn, Pandas, NumPy  
+**Data:** ChromaDB (vector database), SQL, knowledge graphs, RDF, SPARQL  
+**Dev environment:** Git, GitHub, pytest, continuous integration, Docker, Claude Code  
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-### - MCP RAG Server for Document Question Answering
+### RAG assistant integrated into Claude Desktop (MCP) · [mcp-rag-server](https://github.com/faraaawo-debug/mcp-rag-server)
+*Mar – Oct 2026*
+- Architecture and Python implementation: ingestion, vector search (ChromaDB), answers with source citations
+- Optional local LLM execution (Ollama) so data stays in-house
+- Intent router: a first LLM call identifies the question type and adapts retrieval, or refuses off-topic questions
+- Each feature evaluated on the same annotated questions (LLM-as-a-Judge)
+- Automated tests (pytest), continuous integration, documentation
 
-End-to-end Retrieval-Augmented Generation (RAG) system using a custom MCP server, semantic search with ChromaDB, and LLM-based question answering. The system retrieves relevant document chunks and generates grounded responses, with evaluation metrics to assess faithfulness and relevance.
-
-**Tools:** Python, ChromaDB, SentenceTransformers, Ollama, RAG, embeddings, vector search
-
----
-
-### - AI Act QA System
-Semantic document retrieval system to identify the most relevant passages of the **European AI Act** based on a user query.  
-**Tools:** Python, Hit@K, embeddings, semantic search
+**Tools:** Python, MCP, ChromaDB, Sentence Transformers, Ollama, pytest, CI
 
 ---
 
-### - NO₂ Time Series Forecasting
-Short-term forecasting of NO₂ air pollution levels using historical pollution data and meteorological variables. The project combines tree-based machine learning models and deep learning (LSTM) to capture both non-linear relationships and temporal dependencies.  
-**Tools:** Python, Pandas, scikit-learn, Random Forest, LSTM, time series analysis
+### Semantic search on the EU AI Act · [ai-act-semantic-search](https://github.com/faraaawo-debug/ai-act-semantic-search)
+*Dec 2025*
+- 144-page regulation: overlapping chunking, each passage linked to its article (traceability)
+- Embedding model benchmark: **Hit@5 raised from 49% to 76%**
+- Ranking quality (**MRR**) improved **from 0.36 to 0.61** with a multilingual model
+
+**Tools:** Python, Sentence Transformers, embeddings, Hit@K, MRR
 
 ---
 
-### - Clash of Clans Deck Victory Prediction
-Machine learning project to predict match outcomes based on deck composition. Includes data encoding, feature engineering, and classification model evaluation.  
-**Tools:** Python, scikit-learn, feature engineering, classification models
+### Knowledge graph (RDF) built from Wikipedia
+*Mar 2026 · group project*
+- Knowledge modelling: **242,000 RDF triples** (entity extraction, Wikidata enrichment)
+- Natural-language querying: an LLM translates the question into a SPARQL query over the graph
+
+**Tools:** Python, RDF, SPARQL, Wikidata, LLM
 
 ---
 
-##  Contact
-- 📧 Email: faraa.awoyemi@edu.devinci.fr
+### NO₂ time series forecasting · [prediction_NO2_new_delhi](https://github.com/faraaawo-debug/prediction_NO2_new_delhi)
+Short-term forecasting of NO₂ air pollution in New Delhi from historical pollution and meteorological data, combining tree-based models and deep learning (LSTM).  
+**Tools:** Python, Pandas, scikit-learn, Random Forest, LSTM
+
+---
+
+### Clash of Clans deck victory prediction · [ML_project_2025](https://github.com/faraaawo-debug/ML_project_2025)
+Predicting match outcomes from deck composition: data encoding, feature engineering, classification model evaluation.  
+**Tools:** Python, scikit-learn
+
+---
+
+## 🌍 Languages
+French (native) · English (C1, TOEFL)
+
+---
+
+## 📫 Contact
+- 📧 faraa.awoyemi@edu.devinci.fr
+- 💼 [LinkedIn](https://linkedin.com/in/faraa-awoyemi-a3b359395)
